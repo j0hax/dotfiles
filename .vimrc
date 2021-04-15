@@ -63,8 +63,6 @@ set statusline+=[%{strftime('%H:%M')}]\ 	" Time
 """ Syntax Highlighting options
 set t_Co=256
 
-colorscheme gruvbox		" Fresh Colorscheme
-
 " Comments in Italic
 highlight Comment term=italic cterm=italic gui=italic
 
